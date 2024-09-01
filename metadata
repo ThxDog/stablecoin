@@ -1,0 +1,7 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 18,
+    "description": "USDT token",
+    "image": "https://etherscan.io/token/images/tethernew_32.png"
+}
